@@ -163,5 +163,5 @@ python scripts/get_vendor_summary.py
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **Masthan Shaik**  
-Data Analyst  
+IIT Patna 
 📧 Email: masthanshaik2201@gmail.com.com 
