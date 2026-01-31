@@ -146,7 +146,22 @@ python scripts/ingestion_db.py
 python scripts/get_vendor_summary.py
 ```
 4. Open and run notebooks:
-   - `notebooks/exploratory_data_analysis.ipynb`
-   - `notebooks/vendor_performance_analysis.ipynb`
+   - `Notebooks/Exploratory Data Analysis.ipynb`
+   - `Notebooks/Vendor Performance Analysis.ipynb`
 5. Open Power BI Dashboard:
-   - `dashboard/Vendor_Performance_Analysis_dashboard.pbix`
+   - `Dashboard/Vendor_Performance_Analysis_dashboard.pbix`
+---
+<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+
+- Diversify vendor base to reduce risk
+- Optimize bulk order strategies
+- Reprice slow-moving, high-margin brands
+- Clear unsold inventory strategically
+- Improve marketing for underperforming vendors
+
+---
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Masthan Shaik**  
+Data Analyst  
+📧 Email: masthanshaik2201@gmail.com.com 
